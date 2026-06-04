@@ -6,5 +6,6 @@
         public string ItemName { get; set; }
         public bool IsCompleted { get; set; }
         public DateTime DtCreated { get; set; }
+        public DateTime DtUpdated { get; set; }
     }
 }
